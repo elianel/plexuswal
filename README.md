@@ -4,7 +4,7 @@ Definitely not perfect, just testing animated wallpaper possibilities, should of
 
 # Demo:
 
-https://github.com/user-attachments/assets/1ce55459-7ebd-48ff-a162-cffcca3b7a94
+https://github.com/user-attachments/assets/0d3bbb08-8a2d-4992-8cdf-bd8020a6f316
 
 # Build
 
